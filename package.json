@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack -d --watch",
-    "jest": "jest"
+    "jest": "jest",
+    "start": "node ./server/index.jsx"
+
   },
   "repository": {
     "type": "git",

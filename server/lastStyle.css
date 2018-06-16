@@ -1,0 +1,28 @@
+
+
+#titleGallery {
+  margin-bottom: 50px;
+}
+
+.listingB {
+  display: flex;
+  justify-content: center
+}
+
+.listingDescriptionAndReviews {
+
+}
+
+.bookingContainer {
+  margin-left: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.bookingHolder {
+  position: sticky;
+  top: 50px;
+}
+
+
